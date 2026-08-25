@@ -1,4 +1,4 @@
-# RMI-Contact-Manager# 
+# RMI-Contact-Manager
 
 A client-server contact management application built with **Java RMI** (Remote Method Invocation). Users can register, log in, and manage a personal contact list — all through a terminal interface, with data persisted on the server side.
  
