@@ -22,3 +22,10 @@ Built with **Java Sockets** (TCP) on port `3333`. The client and server exchange
 - Simple terminal UI with boxed menus
 
 See each project's own README for setup instructions and implementation details.
+
+---
+
+## Authors
+
+**João Pedro Verneck** — [@VerneckDev](https://github.com/VerneckDev)
+**João Vitor Andrade** — [@Jonhi7139 ](https://github.com/Jonhi7139 )
