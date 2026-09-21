@@ -4,7 +4,7 @@ Two client-server contact management applications built in Java, both offering t
 
 ---
 
-## 📦 Projects
+## Projects
 
 ### [RMI-Contact-Manager](./RMI)
 Built with **Java RMI** (Remote Method Invocation). The client calls methods on a remote server object as if they were local, with user data persisted via serialization in `users.data`.
@@ -14,7 +14,7 @@ Built with **Java Sockets** (TCP) on port `3333`. The client and server exchange
 
 ---
 
-## 🔑 Shared Features
+## Shared Features
 
 - Register / Login with username, password, and email
 - List, add, and remove contacts (9-digit phone numbers)
@@ -22,3 +22,11 @@ Built with **Java Sockets** (TCP) on port `3333`. The client and server exchange
 - Simple terminal UI with boxed menus
 
 See each project's own README for setup instructions and implementation details.
+
+---
+
+## Authors
+
+**João Pedro Verneck** — [@VerneckDev](https://github.com/VerneckDev)
+
+**João Vitor Andrade** — [@Jonhi7139 ](https://github.com/Jonhi7139 )
